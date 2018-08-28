@@ -1,9 +1,14 @@
 /*
 Author: Syed Hussain
 Course: CSCI-136
-Instructor: their name
+Instructor: Gwenael Gatto
 Assignment: Lab
 
 Here, briefly, at least in one or a few sentences
 describe what the program does.
 */
+
+#include <iostream>
+using namespace std;
+
+int main()
