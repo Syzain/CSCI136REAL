@@ -6,6 +6,7 @@ Assignment: Lab1A Task D
 This program returns the date for month inputted in regards to leap years
 */
 //
+//
 #include<iostream>
 using namespace std;
 int main(){
@@ -25,6 +26,8 @@ int main(){
             days = 28;
         else if(year % 100 != 0)
             days = 29;
+        else if(year % 400 != 0)
+            days = 28;
         else 
             days = 29;
     else if(month ==  1|| month == 3 || 
