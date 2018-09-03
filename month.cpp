@@ -1,3 +1,11 @@
+/*
+Author: Syed Hussain
+Course: CSCI-136
+Instructor: their name
+Assignment: Lab1A Task D
+This program returns the date for month inputted in regards to leap years
+*/
+//
 #include<iostream>
 using namespace std;
 int main(){
